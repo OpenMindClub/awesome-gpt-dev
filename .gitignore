@@ -1,0 +1,27 @@
+# gitignore
+
+# macOS
+._*
+.AppleDouble
+.DS_Store
+.localized
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows
+Desktop.ini
+ehthumbs.db
+Thumbs.db
+
+# VS Code
+.vscode
+
+# Vercel
+.vercel
+
+# Book build output
+book/
+*.epub
+*.mobi
+*.pdf
