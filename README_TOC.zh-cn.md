@@ -1,35 +1,15 @@
-# awesome-chatgpt
-
-<!--rehype:style=font-size
-38px; border-bottom
-0; display
-flex; min-height
-260px; align-items
-center; justify-content
-center;-->
-
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](README.zh-cn.md)
-
-<!--rehype:style=text-align
-center;-->
-
-统计自2023-03-01起的Top Github Projects:
-
-## 目录
-
-
 - [awesome-chatgpt](#awesome-chatgpt)
   - [目录](#目录)
-  - [Top Class (star\>10000)](#top-class-star10000)
+  - [Top Class (star>10000)](#top-class-star10000)
     - [Significant-Gravitas/Auto-GPT](#significant-gravitasauto-gpt)
     - [twitter/the-algorithm](#twitterthe-algorithm)
     - [nomic-ai/gpt4all](#nomic-aigpt4all)
     - [microsoft/TaskMatrix](#microsofttaskmatrix)
-    - [binary-husky/gpt\_academic](#binary-huskygpt_academic)
+    - [binary-husky/gpt_academic](#binary-huskygpt_academic)
     - [facebookresearch/segment-anything](#facebookresearchsegment-anything)
     - [xtekky/gpt4free](#xtekkygpt4free)
     - [ggerganov/llama.cpp](#ggerganovllamacpp)
-    - [tatsu-lab/stanford\_alpaca](#tatsu-labstanford_alpaca)
+    - [tatsu-lab/stanford_alpaca](#tatsu-labstanford_alpaca)
     - [THUDM/ChatGLM-6B](#thudmchatglm-6b)
     - [Yidadaa/ChatGPT-Next-Web](#yidadaachatgpt-next-web)
     - [reworkd/AgentGPT](#reworkdagentgpt)
@@ -48,13 +28,33 @@ center;-->
     - [kaixindelele/ChatPaper](#kaixindelelechatpaper)
     - [xx025/carrot](#xx025carrot)
     - [Bin-Huang/chatbox](#bin-huangchatbox)
-  - [High Class (3000\<=star\<10000)](#high-class-3000star10000)
-  - [Mid Class (1000\<=star\<3000)](#mid-class-1000star3000)
+  - [High Class (3000<=star<10000)](#high-class-3000star10000)
+  - [Mid Class (1000<=star<3000)](#mid-class-1000star3000)
   - [贡献](#贡献)
   - [贡献者](#贡献者)
   - [联系](#联系)
   - [致谢](#致谢)
   - [许可](#许可)
+
+
+# awesome-chatgpt
+
+<!--rehype:style=font-size
+38px; border-bottom
+0; display
+flex; min-height
+260px; align-items
+center; justify-content
+center;-->
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](README.zh-cn.md)
+
+<!--rehype:style=text-align
+center;-->
+
+## 目录
+
+统计自2023-03-01起的Top Github Projects:
 
 ## Top Class (star>10000)
 
