@@ -28,7 +28,7 @@ Top Github Projects Since2023-03-01:
 
 ## Top Class (star>10000)
 
-![Data Results till 2023-05-06](./assets/top_class_20230506.jpg)
+![Data Results till 2023-05-06](./assets/top_class_202305.jpg)
 
 - You can see that Auto-GPT is the project with the fastest iteration speed and the highest number of stars at present. 
 - Secondly, AgentGPT, gpt4free, babyagi, llama.cpp and other projects have a relatively fast growth rate. 

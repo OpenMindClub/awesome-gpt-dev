@@ -1,6 +1,7 @@
 # gitignore
 
 # macOS
+_data_workflow/
 ._*
 .AppleDouble
 .DS_Store
