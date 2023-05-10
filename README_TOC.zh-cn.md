@@ -1,4 +1,43 @@
-# awesome-gpt-dev
+- [awesome-chatgpt](#awesome-chatgpt)
+  - [目录](#目录)
+  - [Top Class (star\>10000)](#top-class-star10000)
+    - [Significant-Gravitas/Auto-GPT](#significant-gravitasauto-gpt)
+    - [twitter/the-algorithm](#twitterthe-algorithm)
+    - [nomic-ai/gpt4all](#nomic-aigpt4all)
+    - [microsoft/TaskMatrix](#microsofttaskmatrix)
+    - [binary-husky/gpt\_academic](#binary-huskygpt_academic)
+    - [facebookresearch/segment-anything](#facebookresearchsegment-anything)
+    - [xtekky/gpt4free](#xtekkygpt4free)
+    - [ggerganov/llama.cpp](#ggerganovllamacpp)
+    - [tatsu-lab/stanford\_alpaca](#tatsu-labstanford_alpaca)
+    - [THUDM/ChatGLM-6B](#thudmchatglm-6b)
+    - [Yidadaa/ChatGPT-Next-Web](#yidadaachatgpt-next-web)
+    - [reworkd/AgentGPT](#reworkdagentgpt)
+    - [microsoft/JARVIS](#microsoftjarvis)
+    - [Vision-CAIR/MiniGPT-4](#vision-cairminigpt-4)
+    - [lm-sys/FastChat](#lm-sysfastchat)
+    - [suno-ai/bark](#suno-aibark)
+    - [openai/chatgpt-retrieval-plugin](#openaichatgpt-retrieval-plugin)
+    - [yetone/openai-translator](#yetoneopenai-translator)
+    - [getcursor/cursor](#getcursorcursor)
+    - [Stability-AI/StableLM](#stability-aistablelm)
+    - [yoheinakajima/babyagi](#yoheinakajimababyagi)
+    - [mckaywrigley/chatbot-ui](#mckaywrigleychatbot-ui)
+    - [tloen/alpaca-lora](#tloenalpaca-lora)
+    - [cocktailpeanut/dalai](#cocktailpeanutdalai)
+    - [kaixindelele/ChatPaper](#kaixindelelechatpaper)
+    - [xx025/carrot](#xx025carrot)
+    - [Bin-Huang/chatbox](#bin-huangchatbox)
+  - [High Class (3000\<=star\<10000)](#high-class-3000star10000)
+  - [Mid Class (1000\<=star\<3000)](#mid-class-1000star3000)
+  - [贡献](#贡献)
+  - [贡献者](#贡献者)
+  - [联系](#联系)
+  - [致谢](#致谢)
+  - [许可](#许可)
+
+
+# awesome-chatgpt
 
 <!--rehype:style=font-size
 38px; border-bottom
@@ -10,31 +49,16 @@ center;-->
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](README.zh-cn.md)
 
-<!--rehype:style=text-align: center;-->
+<!--rehype:style=text-align
+center;-->
 
-Top Github Projects Since2023-03-01:
-## Table of Contents
+## 目录
 
-- [awesome-gpt-dev](#awesome-gpt-dev)
-  - [Table of Contents](#table-of-contents)
-  - [Top Class (star\>10000)](#top-class-star10000)
-  - [High Class (3000\<=star\<10000)](#high-class-3000star10000)
-  - [Mid Class (1000\<=star\<3000)](#mid-class-1000star3000)
-  - [Contribute](#contribute)
-  - [Contributors](#contributors)
-  - [Contact](#contact)
-  - [Credits](#credits)
-  - [License](#license)
+统计自2023-03-01起的Top Github Projects:
 
 ## Top Class (star>10000)
 
-![Data Results till 2023-05-06](./assets/top_class_202305.jpg)
-
-- You can see that Auto-GPT is the project with the fastest iteration speed and the highest number of stars at present. 
-- Secondly, AgentGPT, gpt4free, babyagi, llama.cpp and other projects have a relatively fast growth rate. 
-- From the perspective of stars, the-algorithm has obtained a large number of stars (more than 30,000)
-
-| repo name               | repo owner               | url                                           | description                                                                                                                                                                                                  | is_organization | main language         | stars  | topics                                                                                                                                                                                                                                                   |
+| 项目名称                    | 作者               | 访问链接                                           | 项目描述                                                                                                                                                                                                  | 是否组织所有 | 主要语言         | stars数  | 话题标签                                                                                                                                                                                                                                                   |
 |--------------------------|----------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Auto-GPT                 | Significant-Gravitas | https://github.com/Significant-Gravitas/Auto-GPT     | An experimental open-source attempt to make GPT-4 fully autonomous.                                                                                                                                          | TRUE            | Python           | 124965 | ['python', 'ai', 'artificial-intelligence', 'openai', 'autonomous-agents', 'gpt-4']                                                                                                                                                                      |
 | the-algorithm            | twitter              | https://github.com/twitter/the-algorithm             | Source code for Twitter's Recommendation Algorithm                                                                                                                                                           | TRUE            | Scala            | 56613  | []                                                                                                                                                                                                                                                       |
@@ -66,16 +90,90 @@ Top Github Projects Since2023-03-01:
 | ChuanhuChatGPT           | GaiZhenbiao          | https://github.com/GaiZhenbiao/ChuanhuChatGPT        | GUI for ChatGPT API and any LLM                                                                                                                                                                              | FALSE           | Python           | 10018  | ['chatbot', 'bilibili', 'chatgpt-api']                                                                                                                                                                                                                   |
 
 
+### Significant-Gravitas/Auto-GPT
+https://github.com/Significant-Gravitas/Auto-GPT
+
+### twitter/the-algorithm
+https://github.com/twitter/the-algorithm
+
+### nomic-ai/gpt4all
+https://github.com/nomic-ai/gpt4all
+
+### microsoft/TaskMatrix
+https://github.com/microsoft/TaskMatrix
+
+### binary-husky/gpt_academic
+https://github.com/binary-husky/gpt_academic
+
+### facebookresearch/segment-anything
+https://github.com/facebookresearch/segment-anything
+
+### xtekky/gpt4free
+https://github.com/xtekky/gpt4free
+
+### ggerganov/llama.cpp
+https://github.com/ggerganov/llama.cpp
+
+### tatsu-lab/stanford_alpaca
+https://github.com/tatsu-lab/stanford_alpaca
+
+### THUDM/ChatGLM-6B
+https://github.com/THUDM/ChatGLM-6B
+
+### Yidadaa/ChatGPT-Next-Web
+https://github.com/Yidadaa/ChatGPT-Next-Web
+
+### reworkd/AgentGPT
+https://github.com/reworkd/AgentGPT
+
+### microsoft/JARVIS
+https://github.com/microsoft/JARVIS
+
+### Vision-CAIR/MiniGPT-4
+https://github.com/Vision-CAIR/MiniGPT-4
+
+### lm-sys/FastChat
+https://github.com/lm-sys/FastChat
+
+### suno-ai/bark
+https://github.com/suno-ai/bark
+
+### openai/chatgpt-retrieval-plugin
+https://github.com/openai/chatgpt-retrieval-plugin
+
+### yetone/openai-translator
+https://github.com/yetone/openai-translator
+
+### getcursor/cursor
+https://github.com/getcursor/cursor
+
+### Stability-AI/StableLM
+https://github.com/Stability-AI/StableLM
+
+### yoheinakajima/babyagi
+https://github.com/yoheinakajima/babyagi
+
+### mckaywrigley/chatbot-ui
+https://github.com/mckaywrigley/chatbot-ui
+
+### tloen/alpaca-lora
+https://github.com/tloen/alpaca-lora
+
+### cocktailpeanut/dalai
+https://github.com/cocktailpeanut/dalai
+
+### kaixindelele/ChatPaper
+https://github.com/kaixindelele/ChatPaper
+
+### xx025/carrot
+https://github.com/xx025/carrot
+
+### Bin-Huang/chatbox
+https://github.com/Bin-Huang/chatbox
 
 ## High Class (3000<=star<10000)
 
-![Data Results till 2023-05-06](./assets/high_class_202305.png)
-
-- In high-level projects, e2b, LMFlow, BELLE commit are the most active, and other projects are not the same 
-- Top stars are MOSS, Granded-Segment-Anything, chatGPTBox, etc., among which MOSS won 8,000+ star stars in about half a month 
-- In this batch of projects, some list
-
-| repo name               | repo owner               | url                                           | description                                                                                                                                                                                                  | is_organization | main language         | stars  | topics                                                                                                                                                                                                                                                   |
+| 项目名称                    | 作者               | 访问链接                                           | 项目描述                                                                                                                                                                                                  | 是否组织所有 | 主要语言         | stars数  | 话题标签                                                                                                                                                                                                                                                   |
 |------------------------------|---------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | gpt4-pdf-chatbot-langchain   | mayooear            | https://github.com/mayooear/gpt4-pdf-chatbot-langchain     | GPT4 &amp; LangChain Chatbot for large PDF docs                                                                                                                                                                                                                                                                                                     | FALSE           | TypeScript       | 9711  | ['pdf', 'typescript', 'nextjs', 'openai', 'gpt4', 'langchain']                                                                                                                          |
 | dolly                        | databrickslabs      | https://github.com/databrickslabs/dolly                    | Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform                                                                                                                                                                                                                                                       | TRUE            | Python           | 9634  | ['chatbot', 'gpt', 'databricks', 'dolly']                                                                                                                                               |
@@ -130,12 +228,7 @@ Top Github Projects Since2023-03-01:
 
 ## Mid Class (1000<=star<3000)
 
-![Data Results till 2023-05-06](./assets/mid_class_202305.png)
-
-- The medium-level warehouse presents a "mold battle" situation. The more active ones are marvin, click-prompt, wenda 
-- zotero-gpt. This warehouse did not appear in March, but on 2022-08-19.
-
-| repo name               | repo owner               | url                                           | description                                                                                                                                                                                                  | is_organization | main language         | stars  | topics                                                                                                                                                                                                                                                   |
+| 项目名称                    | 作者               | 访问链接                                           | 项目描述                                                                                                                                                                                                  | 是否组织所有 | 主要语言         | stars数  | 话题标签                                                                                                                                                                                                                                                   |
 |------------------------------|---------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | llm                                       | rustformers                   | https://github.com/rustformers/llm                                      | Run inference for Large Language Models on CPU, with Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">�</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">�</g-emoji><g-emoji class="g-emoji" alias="llama" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f999.png">�</g-emoji>      | TRUE            | Rust             | 2976  | []                                                                                                                                                                                                                                                                          |
 | GPTCache                                  | zilliztech                    | https://github.com/zilliztech/GPTCache                                  | GPTCache is a library for creating semantic cache to store responses from LLM queries.                                                                                                                                                                                                                                                                                                                                                                                            | TRUE            | Python           | 2955  | ['redis', 'chatbot', 'openai', 'llama', 'gpt', 'memcache', 'semantic-search', 'similarity-search', 'dolly', 'vector-search', 'milvus', 'aigc', 'llm', 'chatgpt', 'langchain', 'chatgpt-api', 'llama-index', 'autogpt', 'babyagi']                                           |
@@ -280,26 +373,28 @@ Top Github Projects Since2023-03-01:
 | telegram-chatgpt-concierge-bot            | RafalWilinski                 | https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot         | Interact with OpenAI's ChatGPT via Telegram and Voice.                                                                                                                                                                                                                                                                                                                                                                                                                            | FALSE           | TypeScript       | 1011  | ['telegram-bot', 'chatgpt', 'langchain']                                                                                                                                                                                                                                    |
 | poe-api                                   | ading2210                     | https://github.com/ading2210/poe-api                                    | A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.                                                                                                                                                                                                                                                                                                                                                                | FALSE           | Python           | 1002  | ['python', 'graphql', 'library', 'quora', 'poe', 'chatgpt']                                                                                                                                                                                                                 |
 
-## Contribute
+## 贡献
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first and submit a Pull Request after Fork this repository.
+欢迎增补！请先阅读 [contribution guidelines](CONTRIBUTING.zh-cn.md)，在 Fork 本仓库后提交 Pull Request。
 
-## Contributors
+## 贡献者
 
-Thank you to all contributors (in no particular order and in alphabetical order):
+感谢所有贡献者（排名不分先后，按首字母排序）。
+- [W先森](https://github.com/JanusChoi)
 
+## 联系
 
-## Contact
+请使用 GitHub [Issues](https://github.com/OpenMindClub/awesome-chatgpt/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) 来联系我们。
 
-Please use GitHub [Issues](https://github.com/OpenMindClub/awesome-gpt-dev/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) to contact us.
+## 致谢
 
-## Credits
+感谢[阳志平老师](https://www.yangzhiping.com/)以及[开智学堂](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4ODM4ODQ3MQ==#wechat_redirect)对本项目的大力支持。
 
-Thanks to [Mr. Yang Zhiping](https://www.yangzhiping.com/) and [OpenMindClub](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA4ODM4ODQ3MQ==#wechat_) for their support of this project.
-
-## License
+## 许可
 
 [![CC0][CC0-badge]][CC0-link]
 
-[CC0-badge]: http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
-[CC0-link]: https://creativecommons.org/publicdomain/zero/1.0/
+[CC0-badge]
+http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg
+[CC0-link]
+https://creativecommons.org/publicdomain/zero/1.0/
