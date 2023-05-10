@@ -1,4 +1,4 @@
-# awesome-chatgpt
+# awesome-gpt-dev
 
 <!--rehype:style=font-size
 38px; border-bottom
@@ -18,36 +18,9 @@ center;-->
 ## 目录
 
 
-- [awesome-chatgpt](#awesome-chatgpt)
+- [awesome-gpt-dev](#awesome-gpt-dev)
   - [目录](#目录)
   - [Top Class (star\>10000)](#top-class-star10000)
-    - [Significant-Gravitas/Auto-GPT](#significant-gravitasauto-gpt)
-    - [twitter/the-algorithm](#twitterthe-algorithm)
-    - [nomic-ai/gpt4all](#nomic-aigpt4all)
-    - [microsoft/TaskMatrix](#microsofttaskmatrix)
-    - [binary-husky/gpt\_academic](#binary-huskygpt_academic)
-    - [facebookresearch/segment-anything](#facebookresearchsegment-anything)
-    - [xtekky/gpt4free](#xtekkygpt4free)
-    - [ggerganov/llama.cpp](#ggerganovllamacpp)
-    - [tatsu-lab/stanford\_alpaca](#tatsu-labstanford_alpaca)
-    - [THUDM/ChatGLM-6B](#thudmchatglm-6b)
-    - [Yidadaa/ChatGPT-Next-Web](#yidadaachatgpt-next-web)
-    - [reworkd/AgentGPT](#reworkdagentgpt)
-    - [microsoft/JARVIS](#microsoftjarvis)
-    - [Vision-CAIR/MiniGPT-4](#vision-cairminigpt-4)
-    - [lm-sys/FastChat](#lm-sysfastchat)
-    - [suno-ai/bark](#suno-aibark)
-    - [openai/chatgpt-retrieval-plugin](#openaichatgpt-retrieval-plugin)
-    - [yetone/openai-translator](#yetoneopenai-translator)
-    - [getcursor/cursor](#getcursorcursor)
-    - [Stability-AI/StableLM](#stability-aistablelm)
-    - [yoheinakajima/babyagi](#yoheinakajimababyagi)
-    - [mckaywrigley/chatbot-ui](#mckaywrigleychatbot-ui)
-    - [tloen/alpaca-lora](#tloenalpaca-lora)
-    - [cocktailpeanut/dalai](#cocktailpeanutdalai)
-    - [kaixindelele/ChatPaper](#kaixindelelechatpaper)
-    - [xx025/carrot](#xx025carrot)
-    - [Bin-Huang/chatbox](#bin-huangchatbox)
   - [High Class (3000\<=star\<10000)](#high-class-3000star10000)
   - [Mid Class (1000\<=star\<3000)](#mid-class-1000star3000)
   - [贡献](#贡献)
@@ -58,7 +31,11 @@ center;-->
 
 ## Top Class (star>10000)
 
-![](./assets/top_class_20230506.jpg)
+![数据统计至2023-05-06](./assets/top_class_202305.jpg)
+
+- 可以看到Auto-GPT一骑绝尘，是目前迭代速度最快，也是stars数最高的项目
+- 其次commits增速比较快的还有AgentGPT，gpt4free，babyagi，llama.cpp等项目
+- 再从stars数来看，the-algorithm公布伊始就获得了大量stars（30000以上），其次AgentGPT、gpt4free、llama.cpp、ChatGPT-Next-Web、gpt4all等一大批项目都是在短时间内斩获了大量stars
 
 | 项目名称                    | 作者               | 访问链接                                           | 项目描述                                                                                                                                                                                                  | 是否组织所有 | 主要语言         | stars数  | 话题标签                                                                                                                                                                                                                                                   |
 |--------------------------|----------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -91,89 +68,13 @@ center;-->
 | chatbox                  | Bin-Huang            | https://github.com/Bin-Huang/chatbox                 | Your Ultimate Copilot on the Desktop. Chatbox is a desktop app for GPT-4 / GPT-3.5 (OpenAI API) that supports Windows, Mac &amp; Linux.                                                                      | FALSE           | TypeScript       | 10325  | ['openai', 'chatgpt']                                                                                                                                                                                                                                    |
 | ChuanhuChatGPT           | GaiZhenbiao          | https://github.com/GaiZhenbiao/ChuanhuChatGPT        | GUI for ChatGPT API and any LLM                                                                                                                                                                              | FALSE           | Python           | 10018  | ['chatbot', 'bilibili', 'chatgpt-api']                                                                                                                                                                                                                   |
 
-
-### Significant-Gravitas/Auto-GPT
-https://github.com/Significant-Gravitas/Auto-GPT
-
-### twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-
-### nomic-ai/gpt4all
-https://github.com/nomic-ai/gpt4all
-
-### microsoft/TaskMatrix
-https://github.com/microsoft/TaskMatrix
-
-### binary-husky/gpt_academic
-https://github.com/binary-husky/gpt_academic
-
-### facebookresearch/segment-anything
-https://github.com/facebookresearch/segment-anything
-
-### xtekky/gpt4free
-https://github.com/xtekky/gpt4free
-
-### ggerganov/llama.cpp
-https://github.com/ggerganov/llama.cpp
-
-### tatsu-lab/stanford_alpaca
-https://github.com/tatsu-lab/stanford_alpaca
-
-### THUDM/ChatGLM-6B
-https://github.com/THUDM/ChatGLM-6B
-
-### Yidadaa/ChatGPT-Next-Web
-https://github.com/Yidadaa/ChatGPT-Next-Web
-
-### reworkd/AgentGPT
-https://github.com/reworkd/AgentGPT
-
-### microsoft/JARVIS
-https://github.com/microsoft/JARVIS
-
-### Vision-CAIR/MiniGPT-4
-https://github.com/Vision-CAIR/MiniGPT-4
-
-### lm-sys/FastChat
-https://github.com/lm-sys/FastChat
-
-### suno-ai/bark
-https://github.com/suno-ai/bark
-
-### openai/chatgpt-retrieval-plugin
-https://github.com/openai/chatgpt-retrieval-plugin
-
-### yetone/openai-translator
-https://github.com/yetone/openai-translator
-
-### getcursor/cursor
-https://github.com/getcursor/cursor
-
-### Stability-AI/StableLM
-https://github.com/Stability-AI/StableLM
-
-### yoheinakajima/babyagi
-https://github.com/yoheinakajima/babyagi
-
-### mckaywrigley/chatbot-ui
-https://github.com/mckaywrigley/chatbot-ui
-
-### tloen/alpaca-lora
-https://github.com/tloen/alpaca-lora
-
-### cocktailpeanut/dalai
-https://github.com/cocktailpeanut/dalai
-
-### kaixindelele/ChatPaper
-https://github.com/kaixindelele/ChatPaper
-
-### xx025/carrot
-https://github.com/xx025/carrot
-
-### Bin-Huang/chatbox
-https://github.com/Bin-Huang/chatbox
-
 ## High Class (3000<=star<10000)
+
+![数据统计至2023-05-06](./assets/high_class_202305.png)
+
+- 在高等级项目中，e2b、LMFlow、BELLE commit活跃度最高，其他项目不相伯仲
+- stars数排名靠前的是MOSS，Granded-Segment-Anything，chatGPTBox等，其中MOSS在半个月左右斩获8000+标星
+- 在这一批项目中，也开始出现了一些清单项目和资料仓库，如 awesome-chatgpt-zh，learning-Prompt
 
 | 项目名称                    | 作者               | 访问链接                                           | 项目描述                                                                                                                                                                                                  | 是否组织所有 | 主要语言         | stars数  | 话题标签                                                                                                                                                                                                                                                   |
 |------------------------------|---------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -229,6 +130,11 @@ https://github.com/Bin-Huang/chatbox
 | ai-code-translator           | mckaywrigley        | https://github.com/mckaywrigley/ai-code-translator         | Use AI to translate code from one language to another.                                                                                                                                                                                                                                                                                              | FALSE           | TypeScript       | 3058  | []                                                                                                                                                                                      |
 
 ## Mid Class (1000<=star<3000)
+
+![数据统计至2023-05-06](./assets/mid_class_202305.png)
+
+- 中等级别仓库呈现出一片“混战”的局面，活跃度较高的是 marvin、click-prompt，wenda
+- zotero-gpt这个仓库并不是三月份才出现的，而是2022-08-19出现的
 
 | 项目名称                    | 作者               | 访问链接                                           | 项目描述                                                                                                                                                                                                  | 是否组织所有 | 主要语言         | stars数  | 话题标签                                                                                                                                                                                                                                                   |
 |------------------------------|---------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

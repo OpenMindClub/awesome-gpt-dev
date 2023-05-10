@@ -1,3 +1,23 @@
+# awesome-chatgpt
+
+<!--rehype:style=font-size
+38px; border-bottom
+0; display
+flex; min-height
+260px; align-items
+center; justify-content
+center;-->
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](README.zh-cn.md)
+
+<!--rehype:style=text-align
+center;-->
+
+统计自2023-03-01起的Top Github Projects:
+
+## 目录
+
+
 - [awesome-chatgpt](#awesome-chatgpt)
   - [目录](#目录)
   - [Top Class (star\>10000)](#top-class-star10000)
@@ -36,27 +56,9 @@
   - [致谢](#致谢)
   - [许可](#许可)
 
-
-# awesome-chatgpt
-
-<!--rehype:style=font-size
-38px; border-bottom
-0; display
-flex; min-height
-260px; align-items
-center; justify-content
-center;-->
-
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/english.svg)](README.md) [![jaywcjlove/sb](https://wangchujiang.com/sb/lang/chinese.svg)](README.zh-cn.md)
-
-<!--rehype:style=text-align
-center;-->
-
-## 目录
-
-统计自2023-03-01起的Top Github Projects:
-
 ## Top Class (star>10000)
+
+![](./assets/top_class_20230506.jpg)
 
 | 项目名称                    | 作者               | 访问链接                                           | 项目描述                                                                                                                                                                                                  | 是否组织所有 | 主要语言         | stars数  | 话题标签                                                                                                                                                                                                                                                   |
 |--------------------------|----------------------|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|------------------|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -380,7 +382,6 @@ https://github.com/Bin-Huang/chatbox
 ## 贡献者
 
 感谢所有贡献者（排名不分先后，按首字母排序）。
-- [W先森](https://github.com/JanusChoi)
 
 ## 联系
 
